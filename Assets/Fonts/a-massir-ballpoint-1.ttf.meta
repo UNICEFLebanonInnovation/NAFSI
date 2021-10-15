@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a9149b1b2f015461881897190b7975ba
+timeCreated: 1506243781
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A Massir Ballpoint
+  fontNames:
+  - A Massir Ballpoint
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

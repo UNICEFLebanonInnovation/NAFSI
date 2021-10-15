@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro Scenes/IntroScene.unity
+    guid: 58544a3abd4174349a8d645eb84da173
+  - enabled: 1
+    path: Assets/Scenes/Intro Scenes/DataEntryScene.unity
+    guid: 1c6c8c9dd8e7b411d924d25d97c56b99
+  - enabled: 1
+    path: Assets/Scenes/Intro Scenes/ManualEntryScene.unity
+    guid: 14807dfac4eca4320a4a2afa73c1ef58
+  - enabled: 1
+    path: Assets/Scenes/Intro Scenes/ChildIntroScene.unity
+    guid: 2aa16464afbcb4ab0bc0a465fab527a7
+  - enabled: 1
+    path: Assets/Scenes/Intro Scenes/TempratureScene.unity
+    guid: bc4beaca4a49b4a35bf1c56c79893108
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Social Competance/IntroBoyOrangeScene.unity
+    guid: 0dd6d6e9a077c4a7cb3b703cedc90fa4
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Social Competance/Q2BoyOrangeScene.unity
+    guid: 96188336aea3d4024b0306c0c8f11f00
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Social Competance/Q3BoyOrangeScene.unity
+    guid: 78e354109926e494ea1d86d3cf19519d
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Persistance/IntroBoyRedScene.unity
+    guid: 216da60a4928648dba0ea91442bca81b
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Persistance/Q1BoyRedScene.unity
+    guid: fc2a2cb5e5795470282b9c01bb076176
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Persistance/Q2BoyRedScene.unity
+    guid: 03098a207f0e84486b1821b4b7f73699
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Persistance/Q3BoyRedScene.unity
+    guid: 649c11fa826aa4cf19a60d1939d10aa2
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Self-Control/Q1BoyBlueScene.unity
+    guid: dca0f2f9342ea4c7e84d17bf1c9360ee
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Self-Control/IntroBoyBlueScene.unity
+    guid: 25c85c8da8bff4f568faa17ea104159f
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Self-Control/Q2BoyBlueScene.unity
+    guid: ac8a4076fdae542e2ab03afed06da47d
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Self-Control/Q3BoyBlueScene.unity
+    guid: f47fcdecf8ce14175b032821ace18364
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Academic Self-efficacy/Q1BoyYellowScene.unity
+    guid: f8e965b8b2f734460af2f5f89ec5f066
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Academic Self-efficacy/Q2BoyYellowScene.unity
+    guid: 0457af5302dae4d71b61ee9e0b4259bf
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Mastery Orientation/IntroBoyBrownScene.unity
+    guid: 17b4fc8acf0914b99ad811e1c286b174
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Mastery Orientation/Q1BoyBrownScene.unity
+    guid: 848b2ccf348d14632904aca42630c4fa
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Mastery Orientation/Q2BoyBrownScene.unity
+    guid: c05c19a38a15144e89c98c293b5dad7f
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Academic Self-efficacy/Q1GirlYellowScene.unity
+    guid: 79178a960640b4e32a3940b166716eea
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Academic Self-efficacy/IntroBoyYellowScene.unity
+    guid: 19e703e96b4114423b02d1e203d56fd2
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Academic Self-efficacy/Q2GirlYellowScene.unity
+    guid: 9ed606f86fbff43b287de6e54bd57d47
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Mastery Orientation/IntroGirlBrownScene.unity
+    guid: bfe42ec64daa44c04a13203dce4767a6
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Mastery Orientation/Q2GirlBrownScene.unity
+    guid: 759cbb46070c247519b4986703faf9b1
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Mastery Orientation/Q1GirlBrownScene.unity
+    guid: a930f94ad07524a8fbfbe85ba54de923
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Persistance/IntroGirlRedScene.unity
+    guid: 92694563de2c1490996ec7d2528dfd96
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Persistance/Q1GirlRedScene.unity
+    guid: a0ad02f8e3aea47cca9920dfa7044ea5
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Academic Self-efficacy/IntroGirlYellowScene.unity
+    guid: fc3103238c3a949a690654d4d4c61fd5
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Persistance/Q2GirlRedScene.unity
+    guid: 6b752e30998d64f2c85d59c18db1fc93
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Persistance/Q3GirlRedScene.unity
+    guid: 38051964e57534f3f97bb2c0afcab023
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Self-Control/IntroGirlBlueScene.unity
+    guid: 66ec96bef26e94745ba32d5a60afb513
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Self-Control/Q1GirlBlueScene.unity
+    guid: b430ff9b6d0c64ee785a9cdf73ab747c
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Self-Control/Q2GirlBlueScene.unity
+    guid: 1e56f3f8e869249c889ea003bc2281a2
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Self-Control/Q3GirlBlueScene.unity
+    guid: 8102359d2b6eb4485b99484a26d14fcf
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Social Competance/IntroGirlOrangeScene.unity
+    guid: c8b3e058dab7f4e8a81ad0a267a71da2
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Social Competance/Q1GirlOrangeScene.unity
+    guid: 79f333349cc804888b927d6870b0a7bd
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Social Competance/Q2GirlOrangeScene.unity
+    guid: 28c481ea2256a49fb9fce711a3435668
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Social Competance/Q3GirlOrangeScene.unity
+    guid: 85d3e049fd8d04360b1bdc756fdd8ef3
+  - enabled: 1
+    path: Assets/Scenes/Girl Scenes/Social Competance/Q4GirlOrangeScene.unity
+    guid: 2451acd53357a4f5488711999cfa4c52
+  - enabled: 1
+    path: Assets/Scenes/Boy Scenes/Social Competance/Q1BoyOrangeScene.unity
+    guid: 390dd080cdc654bfbb607a1f25b06959

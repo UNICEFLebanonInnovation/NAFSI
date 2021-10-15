@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/objects/Scenes.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AnswerScript.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/DataEntryScene.cs" Line="137" Column="1" />
+      <File FileName="Assets/Scripts/apis/ApiCallsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NextSceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArabicSupport/Scripts/FixGUITextCS.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArabicSupport/Scripts/SetArabicTextExample.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArabicSupport/Scripts/ArabicDropDownScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArabicSupport/Scripts/ArabicInputFieldScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/objects/Scenes.cs" Line="199" Column="41" />
+      <File FileName="../../Self-Perception-Tool/Assets/Scripts/OnSceneLoadScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GenericScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FeelingButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AnswerButtonScript.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/AudioHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TempratureScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArabicSupport/Scripts/OnValueChangeTextCS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StudentScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StudentObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArabicSupport/Scripts/FixLabelTextCS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GlobalControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StudentData.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tarek/Unity-Dev/Nafsi-Tool/Assets/Scripts/GlobalControl.cs" line="23" column="1" />
+      <Breakpoint file="/Users/tarek/Unity-Dev/Nafsi-Tool/Assets/Scripts/GlobalControl.cs" line="24" column="1" />
+      <Breakpoint file="/Users/tarek/Unity-Dev/Nafsi-Tool/Assets/Scripts/GlobalControl.cs" line="19" column="1" />
+      <Breakpoint file="/Users/tarek/Unity-Dev/Nafsi-Tool/Assets/Scripts/GlobalControl.cs" line="10" column="1" />
+      <Breakpoint file="/Users/tarek/Unity-Dev/Nafsi-Tool/Assets/Scripts/GlobalControl.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
